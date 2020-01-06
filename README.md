@@ -7,6 +7,7 @@ https://xcodereleases.com/
 ## Combine
 
 https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet
+https://ruiper.es/2019/08/05/custom-publishers-part1/
 
 ## SwiftUI
 
