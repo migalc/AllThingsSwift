@@ -19,6 +19,10 @@
 
 - https://ios13.dev/universal-links-debugging-on-ios-13-cjwsux93w001p6ws1swtstmzc
 
+## Dependency Injection
+
+- https://github.com/ZamzamInc/Shank/tree/master
+
 ## Other Resources
 
 - https://swiftoneliners.com
