@@ -1,5 +1,9 @@
 # AllThingsSwift
 
+## QuickTips
+
+- http://fuckingifcaseletsyntax.com/
+
 ## Xcode 
 
 - https://xcodereleases.com/
