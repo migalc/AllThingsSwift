@@ -29,7 +29,7 @@
 
 ## APNS
 
-https://sarunw.com/posts/testing-remote-push-notification-in-ios-simulator/
+- https://sarunw.com/posts/testing-remote-push-notification-in-ios-simulator/
 
 ## Other Resources
 
