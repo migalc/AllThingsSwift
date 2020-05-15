@@ -27,6 +27,10 @@
 
 - https://github.com/ZamzamInc/Shank/tree/master
 
+## APNS
+
+https://sarunw.com/posts/testing-remote-push-notification-in-ios-simulator/
+
 ## Other Resources
 
 - https://swiftoneliners.com
