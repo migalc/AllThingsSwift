@@ -31,6 +31,10 @@
 
 - https://sarunw.com/posts/testing-remote-push-notification-in-ios-simulator/
 
+## UIKit
+
+- https://medium.com/@abhimuralidharan/ios-content-hugging-and-content-compression-resistance-priorities-476fb5828ef
+
 ## Other Resources
 
 - https://swiftoneliners.com
