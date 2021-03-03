@@ -39,3 +39,7 @@
 
 - https://swiftoneliners.com
 - https://material.io/design/motion/speed.html#easing
+
+## Discussions
+
+- https://mobilenativefoundation.org/
