@@ -19,6 +19,7 @@
 
 - https://goshdarnswiftui.com/
 - https://www.hackingwithswift.com/100/swiftui
+- https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared
 
 ## Universal Links
 
