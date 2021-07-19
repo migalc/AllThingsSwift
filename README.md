@@ -45,3 +45,7 @@
 ## Discussions
 
 - https://mobilenativefoundation.org/
+
+## Misc
+
+- https://infinum.com/handbook/books/ios
