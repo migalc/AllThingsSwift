@@ -6,8 +6,19 @@
 
 ## Xcode 
 
+### Articles
+
 - https://xcodereleases.com/
 - https://www.hackingwithswift.com/articles/158/how-to-create-a-custom-xcode-template-for-coordinators
+
+### Tools
+
+- Inject: https://github.com/krzysztofzablocki/Inject
+- Tuist: https://tuist.io/
+
+## Swift Concurrency
+
+- https://github.com/mattmassicotte/ConcurrencyRecipes
 
 ## Combine
 
@@ -17,9 +28,15 @@
 
 ## SwiftUI
 
+### Tutorials 
+
 - https://goshdarnswiftui.com/
 - https://www.hackingwithswift.com/100/swiftui
 - https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared
+
+### Animations/Transitions
+
+- https://github.com/EmergeTools/Pow
 
 ## Universal Links
 
